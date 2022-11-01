@@ -64,6 +64,7 @@ par(mfrow=c(1,1), mar=c(5, 4, 2, 2))
 dotchart(importanceSorted, xlab="Predictor accuracy", labels= c("Negative FM","Inter quartile range","Total FM", "Positive FM", "High frequency", "Peak frequency", "Low frequency", "Duration", "First quartile range", "Median frequency"), pch=19, cex=1.2, las=2) #type = 2
 ```
 
-![alt text](https://github.com/PabloRBS/Occurrence-especes/blob/main/occurrence_fr2.png?raw=true)
+
+![alt text](https://github.com/PabloRBS/Random_subspecies_difference/blob/main/RF_quetzal_plot.png?raw=true)
 
 
